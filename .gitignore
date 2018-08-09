@@ -1,9 +1,10 @@
 /node_modules/
 lib
-assets
 npm-debug.log
 .DS_Store
 .history
 npm-error.log
 yarn-error.log
 coverage
+vue
+vue-router
