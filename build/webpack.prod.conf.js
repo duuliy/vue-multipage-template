@@ -139,7 +139,7 @@ const webpackConfig = merge(baseWebpackConfig, {
     // copy custom static assets
     new CopyWebpackPlugin([
       {
-        from: path.resolve(__dirname, "../static"),
+        from: path.resolve(__dirname, "../static"),    //此处的结构有点问题
         to: config.build.assetsSubDirectory,
         ignore: [".*"]
       }
