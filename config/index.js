@@ -51,7 +51,7 @@ module.exports = {
 
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
-    assetsSubDirectory: 'static',
+    assetsSubDirectory: 'static',   //此处应该多考虑文件层级
     assetsPublicPath: '../',
 
     /**
