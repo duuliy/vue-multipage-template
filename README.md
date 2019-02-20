@@ -19,4 +19,4 @@ npm install vue-duuliy-multipage --save-dev
 
 ## License
 
-[MIT](https://github.com/lijinke666/react-project-template/blob/master/LICENCE)
+[MIT](https://github.com/duuliy/vue-duuliy-multipage
